@@ -1,0 +1,24 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(22, 72, 99, 0.425);
+  color: white;
+}
+.box-info {
+  display: flex;
+  gap: 30px;
+  padding: 1rem;
+  margin: 1rem;
+  color: white;
+  border-radius: 15px;
+}
+
+.purple {
+  background-color: blueviolet;
+  color: white;
+}
+.gray {
+  background-color: gray;
+}
